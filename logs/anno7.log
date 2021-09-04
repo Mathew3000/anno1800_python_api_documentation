@@ -1,0 +1,41 @@
+COnlineManager
+	AutoConnect
+		deleter
+		fdel
+		fget
+		fset
+		getter
+		setter
+	DebugCopyHostDescriptorToClipboard
+	DebugCreateCustomSession
+	DebugKickPeer
+	EnableService
+	Get
+	GetStormManager
+	InviteFriend
+	JoinSession
+	LeaveSession
+	LoadMultiplayerSession
+	LoadSavegameAndLeaveSession
+	OpenHelpPage
+	SendTestBlob
+	ShowInviteOverlay
+	UploadFile
+CStormManager
+	ChatterEnable
+	ChatterMuteMic
+	ChatterMuteRelation
+	ChatterMuteSpeaker
+	EnableLoopback
+	EnableSpeechToText
+	EnableStats
+	EnableTextToSpeech
+	LeaveSession
+	SendText
+	StartQuickMatch
+CVoiceChat
+	EnablePushToTalk
+	SetMicActiviationLevel
+
+0.016013622283935547
+

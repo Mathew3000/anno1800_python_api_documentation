@@ -1,0 +1,60 @@
+animationspeed
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+changeDistanceFieldResolution
+copyBuildStringToClipboard
+distancefieldgradient
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+distancefieldinnergradient
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+distancefieldinnersize
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+distancefieldoutergradient
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+distancefieldoutersize
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+distancefieldthickness
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+dumpFontManagerBitmap
+dumpMemory
+forceLazyLoading
+isUIStartUpPastSceneCreation
+playAudioText
+playCharacterAudioMessage
+setAudioLanguage
+setLanguage
+setResolveWidgetNameCRC
+setTextDisplayMode
+showAnimationsFromActiveScenes
+showCharacterNotification
+showChatWindowScene
+showDebugOnScreenText
+showNotification
+showOnlyRunningAnimations
+showSurvey
+toggleDistanceFieldManager
+toggleFeedback
+toggleMinimap
+
+0.020556211471557617
+

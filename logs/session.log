@@ -1,0 +1,113 @@
+aiDebugRenderContext
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+buildShipInBuilding
+cameraFOV
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+cameraFarClip
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+createTestStreetGridTiles
+daytime
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+destroySelectionNextGametick
+drawDebugLayer
+drawPathplannerLayer
+enableAllConstructionAreas
+executeBuildModeEvent
+executeBuildRailwayEvent
+executeBuildStreetEvent
+executeTargetManagerEvent
+executeWorldMapEvent
+feedbackForceFieldRadiusHard
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+feedbackForceFieldRadiusSoft
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+feedbackForceFieldSpeed
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+feedbackSetDebugMode
+feedbackSetDebugRenderMode
+feedbackToggleDebugFlag
+forceSequenceCamera
+forceWeather
+getNearestLabelAtCameraPos
+getObject
+getObjectByID
+getObjectByLabel
+getObjectGroupByName
+getObjectGroupByObject
+getSelectedFactory
+getSessionGUID
+hasNeverBeenEntered
+hideDebugLayers
+hideStreets
+hideTestRandomArea
+increaseDangerLayer
+isNewSession
+jumpToSelection
+killGameObject
+listenerPositionInterpolationValue
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+morale
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+openInfoTip
+openSelectedObject
+openSelectedObjectInToolOne
+preloadObject
+recordCameraSequence
+selectNextObject
+selection
+	append
+	clear
+	copy
+setCameraToObjectPosAndRot
+setCameraToPreset
+setDefaultRotation
+setStance
+showAllCollectables
+showStreet
+showStreets
+showTestRandomArea
+spawnDebugGameObject
+spawnDebugGameObjects
+squadAddDestroyTask
+squadAddRouteTask
+startCameraShake
+startFeedbackSequence
+startIslandSequence
+startNegotiationMenu
+startSequence
+stopSequence
+switchCameraControl
+toggleAIDebug
+toggleCamSettings
+toggleDrawDistanceToIslandLayer
+togglePostcardView
+toggleResidentView
+unloadSession
+

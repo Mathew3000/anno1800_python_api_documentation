@@ -1,0 +1,12 @@
+addToReplayLog
+doSuccessChecks
+doTestEnvironmentCheck
+enableSyncTraces
+finishReplay
+generatePopupHTML
+getAbortReplay
+getErrorOutput
+getReplayOutputFolder
+getReplayScriptName
+
+0.0030031204223632812

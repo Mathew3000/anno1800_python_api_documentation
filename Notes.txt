@@ -1,0 +1,4 @@
+DATA['session'].killGameObject()        kills currently selected object
+DATA['session'].getSessionGUID()        returns GUID of current session
+DATA['session'].daytime                 ingame time as float
+DATA['session'].jumpToSelection()       moves camera to currently selected object

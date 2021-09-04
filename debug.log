@@ -1,0 +1,32 @@
+None
+name 'true' is not defined
+hideStreets(): incompatible function arguments. The following argument types are supported:
+    1. (self: Anno6.Session) -> None
+
+Invoked with: <Anno6.Session object at 0x000001DEA162B260>, True
+None
+None
+None
+'float' object is not callable
+0.0
+0.0
+0.0
+0.0
+0.0
+<bound method PyCapsule.getSessionGUID of <Anno6.Session object at 0x000001DEA162B260>>
+180023
+'float' object is not callable
+13.0
+13.0
+13.0
+None
+None
+executeBuildModeEvent(): incompatible function arguments. The following argument types are supported:
+    1. (self: Anno6.Session, arg0: ?? ::EUV, arg1: int, arg2: int, arg3: ?? ::EUW, arg4: bool, arg5: ?? ::EUT, arg6: float) -> None
+
+Invoked with: <Anno6.Session object at 0x000001DEA162B260>
+executeBuildModeEvent(): incompatible function arguments. The following argument types are supported:
+    1. (self: Anno6.Session, arg0: ?? ::EUV, arg1: int, arg2: int, arg3: ?? ::EUW, arg4: bool, arg5: ?? ::EUT, arg6: float) -> None
+
+Invoked with: <Anno6.Session object at 0x000001DEA162B260>
+None
